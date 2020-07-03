@@ -1,6 +1,6 @@
 {
-  "name": "yahtzee",
   "homepage": "http://noho-glitch.github.io/yahtzee",
+  "name": "yahtzee",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
